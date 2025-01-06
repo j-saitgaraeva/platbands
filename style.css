@@ -8,7 +8,16 @@ body {
 }
 
 .hi {
-    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    width: 1020px;
+}
+
+p {
+    margin: 0;
 }
 
 .name_small {
